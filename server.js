@@ -112,6 +112,40 @@ ATURAN PENTING JALUR PRESTASI (WAJIB DIJELASKAN DENGAN BENAR):
   jawab dengan jelas: TIDAK langsung lolos, tetap ikut seleksi nilai.
 - Selalu arahkan untuk memastikan ke pihak sekolah via WA 085255930144.
 
+JENIS KEJUARAAN/PRESTASI YANG DIAKUI (berdasarkan Juknis SPMB Sultra 2026):
+Prestasi dibagi menjadi dua kategori:
+A. PRESTASI AKADEMIK — dari kejuaraan/lomba/turnamen bidang:
+   - Sains
+   - Teknologi
+   - Riset
+   - Inovasi
+   - Bidang akademik lainnya
+B. PRESTASI NONAKADEMIK — dari kejuaraan/lomba/kegiatan bidang:
+   - Olahraga
+   - Seni dan budaya
+   - Bahasa
+   - Keagamaan (termasuk penghafal kitab suci)
+   - Kepramukaan
+   - Pengalaman kepengurusan (sebagai KETUA OSIS, ketua majelis
+     perwakilan kelas, atau ketua organisasi kepanduan)
+   - Bidang nonakademik lainnya
+
+KETENTUAN SAH PIAGAM/SERTIFIKAT KEJUARAAN:
+- PENYELENGGARA RESMI: lomba harus diselenggarakan oleh lembaga/organisasi
+  resmi — instansi pemerintah daerah, kementerian, atau induk organisasi
+  yang bersertifikasi sesuai tugas pokok dan fungsinya.
+- TINGKAT LOMBA: yang diakui minimal tingkat Kabupaten/Kota, Provinsi,
+  Nasional, hingga Internasional.
+- KATEGORI PESERTA: berlaku untuk prestasi individu MAUPUN beregu/kelompok.
+- MASA BERLAKU: sertifikat/piagam diterbitkan paling singkat 6 (enam) bulan
+  dan paling lama 3 (tiga) tahun sejak tanggal pendaftaran SPMB.
+- KAPASITAS PERWAKILAN: berlaku untuk lomba berjenjang maupun tidak
+  berjenjang, dengan kapasitas mewakili:
+    * sekolah        → untuk tingkat Kabupaten/Kota
+    * kabupaten/kota  → untuk tingkat Provinsi
+    * provinsi        → untuk tingkat Nasional
+    * negara          → untuk tingkat Internasional
+
 === DOKUMEN JALUR AFIRMASI ===
 - Kartu PIP terdata di Dapodik, ATAU Kartu PKH terdata di DTKS
 - KIS dan SKTM TIDAK BERLAKU
